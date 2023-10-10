@@ -1,5 +1,5 @@
 # Create OpenGL
-- with glfw3 + glad (3.3)
+- with freeglut/vscode
 
 A quick start template for starting an OpenGL project wtih vscode.
 
@@ -17,6 +17,8 @@ A quick start template for starting an OpenGL project wtih vscode.
 ```
 git clone https://github.com/your_username_/Project-Name.git
 ```
-- move `glfw3.dll` to your bin
-- run build (currently configured through `tasks.json`)
-- all builds are placed in `/builds`
+
+- run build (currently configured through `tasks.json`) 
+ - shortcut > `ctrl+shift+b`
+
+- all builds (executables) are placed in `/builds`
