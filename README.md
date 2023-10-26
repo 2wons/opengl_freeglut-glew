@@ -4,7 +4,7 @@
 A quick start template for starting an OpenGL project wtih vscode.
 
 ### prerequisites
-- [setup mingw64](docs/mingw-setup.md)
+- you need the mingw compiler in your path, see [setup mingw64](docs/mingw-setup.md)
 - vscode
 
 ## running project with vscode
