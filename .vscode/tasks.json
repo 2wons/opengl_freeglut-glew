@@ -14,6 +14,7 @@
                 "src/${fileBasenameNoExtension}.cpp",
                 "-lopengl32",
                 "-lfreeglut",
+                "-lglew32",
                 "-o",
                 "${workspaceFolder}/build/${fileBasenameNoExtension}.exe",
             ],
