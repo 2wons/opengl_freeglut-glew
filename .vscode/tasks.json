@@ -15,6 +15,7 @@
                 "-lopengl32",
                 "-lfreeglut",
                 "-lglew32",
+                "-lglu32",
                 "-o",
                 "${workspaceFolder}/build/${fileBasenameNoExtension}.exe",
             ],
